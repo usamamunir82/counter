@@ -1,0 +1,7 @@
+.but-container button{
+  margin: 15px;
+  background-color: green;
+  font-size: 1.3rem;
+ 
+  cursor: pointer;
+}
