@@ -1,0 +1,5 @@
+git init
+heroku git:remote -a "usamacounterapp"
+ git commit -am "import initial commit"
+git push heroku master
+heroku open
